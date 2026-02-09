@@ -65,4 +65,4 @@ TradePerp provides a comprehensive API surface for both frontend interactions an
 
 <!-- Last Activity: 2026-01-29T11:09:50.690Z -->
 
-<!-- Last Activity: 2026-02-09T06:18:00.563Z -->
+<!-- Last Activity: 2026-02-09T07:17:52.978Z -->
